@@ -26,7 +26,7 @@ Abaixo, as capturas de tela demonstrando a interface final e a interatividade da
 
 | Visão Gerencial | Mapa de Vendas | Controle de Estoque |
 | :---: | :---: | :---: |
-| ![Tela Principal](Tela%20Principal.png) | ![Mapa de Vendas](MapaVendas.jpg) | ![Controle de Estoque](Estoque.png) |
+| ![Tela Principal](Tela%20Principal.png) | ![Mapa de Vendas](MapaVendas.png) | ![Controle de Estoque](Estoque.png) |
 
 ---
 *Desenvolvido com foco em transformar dados complexos em decisões estratégicas.*
