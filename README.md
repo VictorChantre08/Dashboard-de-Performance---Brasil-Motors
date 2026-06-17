@@ -1,5 +1,10 @@
 # Dashboard de Performance e Análise Estratégica - Brasil Motors 🚗💨
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
 ## 📝 Sobre o Projeto
 Este projeto de Business Intelligence foi desenvolvido para a **Brasil Motors** com o objetivo de analisar métricas de vendas e entender fatores de mercado que influenciam a tomada de decisão no setor automotivo, incluindo a influência dos preços de combustível e energia na compra de veículos. 
 
