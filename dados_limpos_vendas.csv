@@ -1,0 +1,301 @@
+id_venda,data_da_venda,ano/mês,nome_do_cliente,cpf,cidade,estado,marca,modelo,versão,ano_veículo,cor,preço_tabela_(r$),desconto_(%),preço_final_(r$),forma_pagamento,vendedor,comissão_(%),status
+VDA0001,2015-01-10,2015/01,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Nissan,Kicks,Advance,2015,Vermelho,45100,7.9,41537.1,À vista,Fernanda Lima,2.2,Concluída
+VDA0002,2015-02-05,2015/02,Beatriz Fernandes,277.434.873-47,Natal,RN,Toyota,SW4,Diamond,2015,Azul,57600,6.3,53971.2,Financiado,Fernanda Lima,2.1,Concluída
+VDA0003,2015-04-23,2015/04,João Pereira,433.218.196-00,Porto Alegre,RS,Ford,Ranger,Limited,2015,Vermelho,46200,4.4,44167.2,Financiado,Ana Paula Souza,1.4,Concluída
+VDA0004,2015-05-07,2015/05,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Volkswagen,Tiguan,Allspace,2015,Dourado,49300,6.2,46243.4,Financiado,Camila Rocha,1.5,Concluída
+VDA0005,2015-05-10,2015/05,Rodrigo Cunha,721.489.513-43,Salvador,BA,Ford,Focus,Titanium,2015,Cinza,43600,7.8,40199.2,Financiado,Fernanda Lima,1.5,Concluída
+VDA0006,2015-05-11,2015/05,Henrique Moreira,083.172.788-95,Teresina,PI,Fiat,Toro,Ranch,2015,Bege,45400,0.5,45173.0,À vista,Roberto Mendes,2.3,Concluída
+VDA0007,2015-05-13,2015/05,Priscila Ramos,474.687.234-30,São Paulo,SP,Volkswagen,Tiguan,Allspace,2015,Branco,43600,7.0,40548.0,Financiado,Carlos Eduardo Silva,2.4,Cancelada
+VDA0008,2015-05-18,2015/05,Natalia Sousa,176.936.763-20,Maceió,AL,Ford,EcoSport,FreeStyle,2015,Laranja,55000,0.0,55000.0,À vista,Roberto Mendes,2.4,Concluída
+VDA0009,2015-06-22,2015/06,Carolina Mendonça,193.745.299-12,Maceió,AL,Honda,City,EXL,2015,Branco,57700,2.1,56488.3,À vista,Camila Rocha,0.9,Concluída
+VDA0010,2015-07-26,2015/07,Paulo Roberto,287.101.226-91,Manaus,AM,Jeep,Renegade,Longitude,2015,Branco,65000,4.5,62075.0,Financiado,Fernanda Lima,2.5,Concluída
+VDA0011,2015-09-04,2015/09,Renata Melo,634.216.073-37,Campinas,SP,Renault,Sandero,Stepway,2015,Cinza,44500,2.5,43387.5,À vista,Ana Paula Souza,1.9,Concluída
+VDA0012,2015-09-06,2015/09,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Honda,Fit,EX,2015,Bege,62800,2.0,61544.0,À vista,Camila Rocha,2.5,Concluída
+VDA0013,2015-09-19,2015/09,Priscila Ramos,474.687.234-30,São Paulo,SP,Chevrolet,Montana,LTZ,2015,Vermelho,46200,4.9,43936.2,Financiado,Camila Rocha,1.9,Concluída
+VDA0014,2015-10-13,2015/10,Gustavo Lopes,053.315.869-23,Goiânia,GO,Renault,Captur,Intense,2015,Vermelho,38000,5.9,35758.0,Financiado,Juliana Costa,1.9,Concluída
+VDA0015,2015-10-19,2015/10,Simone Pinto,930.103.105-18,Campo Grande,MS,Volkswagen,Polo,Highline,2015,Laranja,40000,1.3,39480.0,Consórcio,Diego Santos,1.8,Concluída
+VDA0016,2015-11-01,2015/11,Anderson Lima,319.314.919-05,Belém,PA,Jeep,Renegade,Longitude,2015,Laranja,85000,1.8,83470.0,Financiado,Marcos Oliveira,2.0,Concluída
+VDA0017,2015-11-06,2015/11,Thiago Monteiro,997.376.311-65,Curitiba,PR,Nissan,March,SV,2015,Branco,46800,1.6,46051.2,Financiado,Ricardo Alves,2.0,Concluída
+VDA0018,2015-11-10,2015/11,Priscila Ramos,474.687.234-30,São Paulo,SP,Chevrolet,Spin,Premier,2015,Bege,44200,0.4,44023.2,Financiado,Patrícia Ferreira,1.2,Concluída
+VDA0019,2015-11-26,2015/11,Aline Batista,299.468.044-36,Belém,PA,Jeep,Compass,Limited,2015,Preto,75900,0.0,75900.0,Consórcio,Juliana Costa,2.3,Cancelada
+VDA0020,2015-12-04,2015/12,Juliana Almeida,669.096.705-46,Salvador,BA,Toyota,Yaris,XLS,2015,Preto,67400,5.9,63423.4,Financiado,Roberto Mendes,1.4,Concluída
+VDA0021,2015-12-24,2015/12,Henrique Moreira,083.172.788-95,Teresina,PI,Ford,Ka,SE Plus,2015,Dourado,51200,3.8,49254.4,À vista,Roberto Mendes,1.5,Concluída
+VDA0022,2016-01-12,2016/01,Simone Pinto,930.103.105-18,Campo Grande,MS,Fiat,Cronos,Drive,2016,Laranja,44900,4.4,42924.4,Consórcio,Patrícia Ferreira,2.1,Concluída
+VDA0023,2016-01-23,2016/01,Paulo Roberto,287.101.226-91,Manaus,AM,Volkswagen,Gol,1.6,2016,Bege,53400,2.7,51958.2,Consórcio,Diego Santos,1.2,Cancelada
+VDA0024,2016-02-04,2016/02,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Fiat,Strada,Volcano,2016,Preto,44300,6.5,41420.5,À vista,Roberto Mendes,1.8,Concluída
+VDA0025,2016-02-14,2016/02,Rafael Cardoso,383.465.787-13,João Pessoa,PB,Honda,City,EXL,2015,Preto,37300,5.6,35211.2,Consórcio,Patrícia Ferreira,1.7,Concluída
+VDA0026,2016-03-11,2016/03,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Chevrolet,S10,LTZ,2016,Vermelho,57100,4.8,54359.2,Consórcio,Marcos Oliveira,2.1,Em andamento
+VDA0027,2016-03-17,2016/03,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Hyundai,Elantra,GLS,2015,Vermelho,39800,6.5,37213.0,À vista,Camila Rocha,1.5,Concluída
+VDA0028,2016-04-09,2016/04,Cristina Neves,018.451.462-70,Campo Grande,MS,Hyundai,Elantra,GLS,2016,Bege,55800,0.1,55744.2,À vista,Diego Santos,2.0,Concluída
+VDA0029,2016-04-12,2016/04,Rodrigo Cunha,721.489.513-43,Salvador,BA,Hyundai,ix35,GLS,2015,Vermelho,38200,7.6,35296.8,Financiado,Diego Santos,1.2,Concluída
+VDA0030,2016-05-07,2016/05,Leonardo Freitas,615.951.484-65,Salvador,BA,Toyota,Corolla,GLi,2016,Verde,62100,5.7,58560.3,Financiado,Ricardo Alves,0.9,Concluída
+VDA0031,2016-07-02,2016/07,Rodrigo Cunha,721.489.513-43,Salvador,BA,Honda,City,EXL,2016,Preto,67300,7.1,62521.7,Financiado,Camila Rocha,1.4,Concluída
+VDA0032,2016-07-05,2016/07,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Hyundai,Creta,Prestige,2015,Bege,58800,2.9,57094.8,Financiado,Patrícia Ferreira,1.8,Concluída
+VDA0033,2016-07-18,2016/07,João Pereira,433.218.196-00,Porto Alegre,RS,Hyundai,ix35,GLS,2016,Vermelho,57400,7.3,53209.8,Financiado,Camila Rocha,2.1,Concluída
+VDA0034,2016-09-17,2016/09,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Chevrolet,Spin,Premier,2015,Azul,56200,3.5,54233.0,Financiado,Camila Rocha,2.3,Concluída
+VDA0035,2017-02-09,2017/02,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Renault,Logan,Life,2017,Branco,57500,3.5,55487.5,À vista,Ricardo Alves,2.2,Concluída
+VDA0036,2017-02-15,2017/02,Isabela Cruz,627.204.653-75,São Paulo,SP,Volkswagen,Fox,1.6,2016,Azul,57100,5.7,53845.3,Financiado,Diego Santos,1.3,Concluída
+VDA0037,2017-02-25,2017/02,Natalia Sousa,176.936.763-20,Maceió,AL,Renault,Sandero,Stepway,2017,Prata,60000,5.2,56880.0,Financiado,Marcos Oliveira,0.9,Concluída
+VDA0038,2017-04-20,2017/04,Isabela Cruz,627.204.653-75,São Paulo,SP,Ford,EcoSport,FreeStyle,2015,Laranja,62300,6.8,58063.6,Financiado,Patrícia Ferreira,0.9,Concluída
+VDA0039,2017-05-27,2017/05,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Jeep,Renegade,Longitude,2017,Dourado,96300,0.0,96300.0,Financiado,Carlos Eduardo Silva,2.2,Concluída
+VDA0040,2017-06-16,2017/06,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Renault,Logan,Life,2016,Prata,55500,7.5,51337.5,Financiado,Juliana Costa,1.6,Concluída
+VDA0041,2017-06-24,2017/06,Rodrigo Cunha,721.489.513-43,Salvador,BA,Chevrolet,Montana,LTZ,2017,Preto,68000,4.9,64668.0,À vista,Juliana Costa,1.0,Concluída
+VDA0042,2017-07-05,2017/07,Leandro Castro,799.118.384-25,Belo Horizonte,MG,Toyota,RAV4,2.5,2015,Vermelho,72200,1.3,71261.4,À vista,Marcos Oliveira,0.9,Concluída
+VDA0043,2017-07-16,2017/07,Matheus Borges,170.805.310-03,São Luís,MA,Hyundai,Tucson,GLS,2017,Bege,55600,3.8,53487.2,À vista,Juliana Costa,0.9,Concluída
+VDA0044,2017-08-08,2017/08,Rafael Cardoso,383.465.787-13,João Pessoa,PB,Volkswagen,Gol,1.6,2015,Bege,40200,7.7,37104.6,Consórcio,Fernanda Lima,2.0,Concluída
+VDA0045,2017-08-24,2017/08,Anderson Lima,319.314.919-05,Belém,PA,Toyota,Corolla,GLi,2016,Branco,42500,0.7,42202.5,Financiado,Camila Rocha,2.3,Concluída
+VDA0046,2017-09-15,2017/09,Priscila Ramos,474.687.234-30,São Paulo,SP,Jeep,Commander,Limited,2016,Prata,106100,4.0,101856.0,Financiado,Juliana Costa,0.9,Concluída
+VDA0047,2017-09-27,2017/09,Larissa Moura,169.985.435-34,Rio de Janeiro,RJ,Volkswagen,Gol,1.6,2015,Azul,40800,7.0,37944.0,Financiado,Diego Santos,2.4,Concluída
+VDA0048,2017-10-02,2017/10,Aline Batista,299.468.044-36,Belém,PA,Nissan,X-Trail,SL,2017,Bege,78300,2.7,76185.9,À vista,Ana Paula Souza,1.2,Concluída
+VDA0049,2017-10-07,2017/10,Tatiane Andrade,786.801.128-05,Florianópolis,SC,Chevrolet,Onix,Premier,2016,Dourado,62600,1.5,61661.0,Financiado,Ana Paula Souza,0.9,Concluída
+VDA0050,2017-10-19,2017/10,Leonardo Freitas,615.951.484-65,Salvador,BA,Nissan,Kicks,Advance,2015,Vermelho,68000,7.0,63240.0,Financiado,Marcos Oliveira,1.6,Concluída
+VDA0051,2017-12-06,2017/12,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Jeep,Wrangler,Rubicon,2016,Vermelho,101000,5.6,95344.0,Financiado,Camila Rocha,2.4,Concluída
+VDA0052,2017-12-25,2017/12,Felipe Ribeiro,534.874.016-40,Salvador,BA,Jeep,Compass,Limited,2016,Branco,101500,7.1,94293.5,Financiado,Marcos Oliveira,2.5,Concluída
+VDA0053,2017-12-26,2017/12,Renata Melo,634.216.073-37,Campinas,SP,Volkswagen,Fox,1.6,2016,Azul,26400,2.5,25740.0,À vista,Marcos Oliveira,0.9,Concluída
+VDA0054,2018-01-05,2018/01,Daniela Martins,849.808.412-41,Natal,RN,Renault,Logan,Life,2016,Laranja,40900,2.6,39836.6,Consórcio,Roberto Mendes,1.7,Concluída
+VDA0055,2018-01-20,2018/01,Juliana Almeida,669.096.705-46,Salvador,BA,Fiat,Mobi,Like,2016,Prata,39200,3.1,37984.8,Financiado,Patrícia Ferreira,1.1,Concluída
+VDA0056,2018-03-05,2018/03,Anderson Lima,319.314.919-05,Belém,PA,Honda,Fit,EX,2015,Azul,75000,4.9,71325.0,À vista,Ricardo Alves,1.1,Concluída
+VDA0057,2018-04-03,2018/04,Aline Batista,299.468.044-36,Belém,PA,Volkswagen,Virtus,Highline,2018,Azul,71200,7.1,66144.8,Financiado,Ricardo Alves,1.8,Concluída
+VDA0058,2018-04-07,2018/04,Letícia Torres,671.657.262-84,Campinas,SP,Ford,Ranger,Limited,2017,Prata,37200,0.9,36865.2,Financiado,Diego Santos,1.2,Concluída
+VDA0059,2018-04-24,2018/04,Antônio Carlos,283.276.483-50,Belo Horizonte,MG,Nissan,March,SV,2017,Preto,49400,2.3,48263.8,Financiado,Juliana Costa,1.6,Concluída
+VDA0060,2018-04-27,2018/04,Gabriel Marques,812.236.231-66,Campinas,SP,Hyundai,Santa Fe,3.5,2018,Verde,79700,6.6,74439.8,À vista,Roberto Mendes,2.0,Concluída
+VDA0061,2018-04-27,2018/04,Beatriz Fernandes,277.434.873-47,Natal,RN,Nissan,Frontier,LE,2016,Prata,77400,5.4,73220.4,À vista,Camila Rocha,2.3,Em andamento
+VDA0062,2018-05-02,2018/05,Rodrigo Cunha,721.489.513-43,Salvador,BA,Renault,Duster,Iconic,2018,Bege,65200,0.6,64808.8,Financiado,Camila Rocha,2.3,Concluída
+VDA0063,2018-05-03,2018/05,Matheus Borges,170.805.310-03,São Luís,MA,Nissan,March,SV,2016,Azul,74600,1.4,73555.6,Financiado,Ana Paula Souza,1.3,Concluída
+VDA0064,2018-05-11,2018/05,Daniela Martins,849.808.412-41,Natal,RN,Ford,Fusion,Titanium,2015,Azul,38400,0.9,38054.4,Financiado,Roberto Mendes,1.7,Cancelada
+VDA0065,2018-05-12,2018/05,Felipe Ribeiro,534.874.016-40,Salvador,BA,Chevrolet,Onix,Premier,2016,Bege,40700,0.4,40537.2,Financiado,Ana Paula Souza,1.7,Concluída
+VDA0066,2018-05-27,2018/05,Adriana Barbosa,039.117.182-27,Goiânia,GO,Honda,City,EXL,2018,Preto,82200,1.9,80638.2,Financiado,Ricardo Alves,0.9,Em andamento
+VDA0067,2018-06-10,2018/06,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Volkswagen,Gol,1.6,2018,Verde,65500,1.3,64648.5,Consórcio,Marcos Oliveira,1.6,Concluída
+VDA0068,2018-06-26,2018/06,Felipe Ribeiro,534.874.016-40,Salvador,BA,Nissan,Versa,Advance,2015,Preto,36000,2.8,34992.0,Financiado,Roberto Mendes,2.4,Concluída
+VDA0069,2018-07-16,2018/07,João Pereira,433.218.196-00,Porto Alegre,RS,Jeep,Renegade,Longitude,2016,Cinza,83100,6.1,78030.9,Consórcio,Marcos Oliveira,1.2,Concluída
+VDA0070,2018-08-18,2018/08,Gustavo Lopes,053.315.869-23,Goiânia,GO,Toyota,Corolla,GLi,2016,Azul,56400,0.1,56343.6,Financiado,Fernanda Lima,1.2,Em andamento
+VDA0071,2018-09-02,2018/09,Leandro Castro,799.118.384-25,Belo Horizonte,MG,Fiat,Toro,Ranch,2015,Verde,47100,4.1,45168.9,Consórcio,Carlos Eduardo Silva,1.5,Em andamento
+VDA0072,2018-09-10,2018/09,Letícia Torres,671.657.262-84,Campinas,SP,Honda,City,EXL,2018,Verde,73100,7.9,67325.1,À vista,Ana Paula Souza,1.0,Concluída
+VDA0073,2018-09-16,2018/09,Leonardo Freitas,615.951.484-65,Salvador,BA,Chevrolet,Tracker,Premier,2017,Dourado,71800,4.5,68569.0,Financiado,Diego Santos,1.5,Concluída
+VDA0074,2018-10-15,2018/10,Renata Melo,634.216.073-37,Campinas,SP,Nissan,March,SV,2017,Dourado,56300,3.5,54329.5,Financiado,Ricardo Alves,1.3,Concluída
+VDA0075,2018-10-27,2018/10,Rafael Cardoso,383.465.787-13,João Pessoa,PB,Chevrolet,Cruze,Premier,2017,Dourado,55700,3.9,53527.7,À vista,Fernanda Lima,2.0,Concluída
+VDA0076,2018-11-07,2018/11,Rodrigo Cunha,721.489.513-43,Salvador,BA,Ford,Ranger,Limited,2015,Vermelho,33200,7.1,30842.8,Financiado,Ricardo Alves,1.1,Concluída
+VDA0077,2018-12-14,2018/12,João Pereira,433.218.196-00,Porto Alegre,RS,Ford,EcoSport,FreeStyle,2015,Cinza,44500,1.9,43654.5,Consórcio,Ana Paula Souza,2.2,Concluída
+VDA0078,2018-12-26,2018/12,Bruno Correia,882.081.219-13,Cuiabá,MT,Honda,WR-V,EXL,2015,Azul,63000,3.7,60669.0,Financiado,Patrícia Ferreira,1.9,Concluída
+VDA0079,2019-01-11,2019/01,Carolina Mendonça,193.745.299-12,Maceió,AL,Nissan,Versa,Advance,2015,Branco,53200,2.9,51657.2,Consórcio,Juliana Costa,1.0,Concluída
+VDA0080,2019-01-15,2019/01,Carolina Mendonça,193.745.299-12,Maceió,AL,Ford,Ranger,Limited,2015,Prata,44600,6.5,41701.0,Consórcio,Fernanda Lima,1.8,Concluída
+VDA0081,2019-01-25,2019/01,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Honda,CR-V,Touring,2019,Cinza,88300,5.8,83178.6,Financiado,Roberto Mendes,2.2,Em andamento
+VDA0082,2019-02-12,2019/02,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Ford,EcoSport,FreeStyle,2018,Dourado,64100,2.4,62561.6,Financiado,Fernanda Lima,1.4,Cancelada
+VDA0083,2019-02-13,2019/02,Beatriz Fernandes,277.434.873-47,Natal,RN,Chevrolet,Onix,Premier,2015,Laranja,38700,2.0,37926.0,Financiado,Ana Paula Souza,1.4,Em andamento
+VDA0084,2019-02-15,2019/02,Anderson Lima,319.314.919-05,Belém,PA,Fiat,Argo,Drive,2019,Cinza,54600,3.0,52962.0,À vista,Camila Rocha,0.9,Concluída
+VDA0085,2019-02-16,2019/02,Thiago Monteiro,997.376.311-65,Curitiba,PR,Toyota,RAV4,2.5,2019,Laranja,105700,0.6,105065.8,À vista,Diego Santos,2.0,Concluída
+VDA0086,2019-02-19,2019/02,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Fiat,Argo,Drive,2019,Branco,57200,6.4,53539.2,À vista,Ricardo Alves,1.6,Concluída
+VDA0087,2019-03-23,2019/03,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Ford,Fusion,Titanium,2016,Prata,62000,7.1,57598.0,À vista,Patrícia Ferreira,0.8,Cancelada
+VDA0088,2019-04-01,2019/04,Leonardo Freitas,615.951.484-65,Salvador,BA,Honda,Civic,EXL,2018,Cinza,91200,8.0,83904.0,Financiado,Carlos Eduardo Silva,1.8,Concluída
+VDA0089,2019-05-03,2019/05,Eduardo Fonseca,810.801.326-77,Belo Horizonte,MG,Fiat,Strada,Volcano,2015,Preto,30200,5.8,28448.4,Financiado,Ricardo Alves,2.0,Concluída
+VDA0090,2019-05-10,2019/05,João Pereira,433.218.196-00,Porto Alegre,RS,Chevrolet,Onix,Premier,2015,Laranja,42500,0.4,42330.0,À vista,Ricardo Alves,2.2,Concluída
+VDA0091,2019-06-09,2019/06,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Honda,Civic,EXL,2017,Bege,70200,0.6,69778.8,Financiado,Fernanda Lima,1.8,Concluída
+VDA0092,2019-06-16,2019/06,Larissa Moura,169.985.435-34,Rio de Janeiro,RJ,Jeep,Wrangler,Rubicon,2015,Dourado,86900,0.6,86378.6,À vista,Juliana Costa,1.1,Concluída
+VDA0093,2019-06-28,2019/06,Isabela Cruz,627.204.653-75,São Paulo,SP,Fiat,Toro,Ranch,2018,Laranja,38300,3.0,37151.0,Financiado,Marcos Oliveira,1.6,Em andamento
+VDA0094,2019-07-04,2019/07,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Fiat,500,Cult,2019,Cinza,65400,5.2,61999.2,Consórcio,Roberto Mendes,1.3,Concluída
+VDA0095,2019-07-24,2019/07,Gustavo Lopes,053.315.869-23,Goiânia,GO,Toyota,Etios,Platinum,2017,Verde,53700,5.5,50746.5,Consórcio,Ana Paula Souza,1.3,Concluída
+VDA0096,2019-09-17,2019/09,Adriana Barbosa,039.117.182-27,Goiânia,GO,Renault,Captur,Intense,2019,Preto,56800,3.7,54698.4,Financiado,Roberto Mendes,2.3,Concluída
+VDA0097,2019-09-19,2019/09,Juliana Almeida,669.096.705-46,Salvador,BA,Volkswagen,Fox,1.6,2018,Branco,64600,5.4,61111.6,Financiado,Fernanda Lima,1.5,Concluída
+VDA0098,2019-09-27,2019/09,Juliana Almeida,669.096.705-46,Salvador,BA,Hyundai,Creta,Prestige,2015,Verde,56300,1.5,55455.5,Financiado,Marcos Oliveira,1.3,Concluída
+VDA0099,2019-10-05,2019/10,Aline Batista,299.468.044-36,Belém,PA,Nissan,Sentra,SV,2017,Bege,42800,6.3,40103.6,Financiado,Marcos Oliveira,1.0,Concluída
+VDA0100,2019-10-11,2019/10,Gabriel Marques,812.236.231-66,Campinas,SP,Volkswagen,Virtus,Highline,2019,Vermelho,72700,4.1,69719.3,Financiado,Diego Santos,1.8,Concluída
+VDA0101,2019-10-23,2019/10,Aline Batista,299.468.044-36,Belém,PA,Hyundai,Creta,Prestige,2018,Dourado,47400,2.8,46072.8,Financiado,Marcos Oliveira,2.1,Concluída
+VDA0102,2019-11-18,2019/11,Bruno Correia,882.081.219-13,Cuiabá,MT,Hyundai,Creta,Prestige,2017,Azul,36800,3.5,35512.0,Financiado,Juliana Costa,1.8,Concluída
+VDA0103,2019-11-26,2019/11,Rafael Cardoso,383.465.787-13,João Pessoa,PB,Ford,Fusion,Titanium,2019,Azul,82400,0.4,82070.4,À vista,Patrícia Ferreira,2.0,Concluída
+VDA0104,2019-12-02,2019/12,Gustavo Lopes,053.315.869-23,Goiânia,GO,Chevrolet,Spin,Premier,2018,Preto,43700,6.4,40903.2,À vista,Camila Rocha,2.0,Em andamento
+VDA0105,2019-12-13,2019/12,Paulo Roberto,287.101.226-91,Manaus,AM,Volkswagen,Fox,1.6,2015,Dourado,62100,7.6,57380.4,Financiado,Juliana Costa,2.1,Concluída
+VDA0106,2019-12-17,2019/12,Cristina Neves,018.451.462-70,Campo Grande,MS,Volkswagen,Virtus,Highline,2016,Azul,51800,4.3,49572.6,Financiado,Roberto Mendes,2.3,Concluída
+VDA0107,2019-12-22,2019/12,Simone Pinto,930.103.105-18,Campo Grande,MS,Honda,WR-V,EXL,2017,Branco,75100,2.7,73072.3,Consórcio,Patrícia Ferreira,1.6,Concluída
+VDA0108,2020-03-03,2020/03,Natalia Sousa,176.936.763-20,Maceió,AL,Nissan,Kicks,Advance,2016,Branco,48400,1.3,47770.8,Financiado,Camila Rocha,2.1,Concluída
+VDA0109,2020-03-05,2020/03,Beatriz Fernandes,277.434.873-47,Natal,RN,Chevrolet,S10,LTZ,2018,Preto,51000,6.2,47838.0,Financiado,Fernanda Lima,1.1,Concluída
+VDA0110,2020-03-15,2020/03,Luciana Gomes,341.316.475-25,Belo Horizonte,MG,Toyota,HiLux,SR,2016,Preto,71900,0.9,71252.9,Consórcio,Juliana Costa,2.4,Cancelada
+VDA0111,2020-04-18,2020/04,Beatriz Fernandes,277.434.873-47,Natal,RN,Fiat,Strada,Volcano,2018,Verde,44700,2.9,43403.7,À vista,Patrícia Ferreira,2.5,Concluída
+VDA0112,2020-04-22,2020/04,Leandro Castro,799.118.384-25,Belo Horizonte,MG,Chevrolet,S10,LTZ,2018,Verde,56000,2.1,54824.0,Financiado,Ana Paula Souza,2.1,Concluída
+VDA0113,2020-04-23,2020/04,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Chevrolet,Spin,Premier,2015,Laranja,67300,5.0,63935.0,Financiado,Patrícia Ferreira,1.8,Concluída
+VDA0114,2020-05-07,2020/05,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Renault,Logan,Life,2016,Azul,64400,6.2,60407.2,Financiado,Patrícia Ferreira,2.2,Cancelada
+VDA0115,2020-05-22,2020/05,Paulo Roberto,287.101.226-91,Manaus,AM,Fiat,Argo,Drive,2015,Bege,32200,7.8,29688.4,Financiado,Fernanda Lima,1.8,Concluída
+VDA0116,2020-05-24,2020/05,Thiago Monteiro,997.376.311-65,Curitiba,PR,Jeep,Commander,Limited,2020,Preto,116700,1.1,115416.3,Financiado,Carlos Eduardo Silva,1.2,Concluída
+VDA0117,2020-06-04,2020/06,Simone Pinto,930.103.105-18,Campo Grande,MS,Honda,WR-V,EXL,2020,Prata,82000,7.5,75850.0,À vista,Carlos Eduardo Silva,1.6,Concluída
+VDA0118,2020-07-05,2020/07,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Volkswagen,T-Cross,Comfortline,2015,Laranja,47000,2.1,46013.0,Financiado,Diego Santos,2.0,Concluída
+VDA0119,2020-07-09,2020/07,Larissa Moura,169.985.435-34,Rio de Janeiro,RJ,Jeep,Renegade,Longitude,2019,Laranja,134900,6.5,126131.5,Financiado,Juliana Costa,2.3,Concluída
+VDA0120,2020-07-15,2020/07,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Nissan,Versa,Advance,2020,Cinza,86500,6.6,80791.0,À vista,Carlos Eduardo Silva,1.4,Concluída
+VDA0121,2020-07-19,2020/07,Juliana Almeida,669.096.705-46,Salvador,BA,Toyota,Etios,Platinum,2016,Azul,59600,4.6,56858.4,Financiado,Fernanda Lima,1.9,Concluída
+VDA0122,2020-07-27,2020/07,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Nissan,Versa,Advance,2017,Laranja,60000,2.5,58500.0,Financiado,Fernanda Lima,2.0,Concluída
+VDA0123,2020-08-03,2020/08,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Honda,City,EXL,2019,Azul,62800,4.7,59848.4,Financiado,Patrícia Ferreira,2.0,Cancelada
+VDA0124,2020-08-07,2020/08,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Fiat,Mobi,Like,2016,Azul,49400,7.8,45546.8,Financiado,Fernanda Lima,1.0,Concluída
+VDA0125,2020-08-20,2020/08,Larissa Moura,169.985.435-34,Rio de Janeiro,RJ,Ford,Territory,SEL,2015,Azul,38300,7.7,35350.9,Financiado,Ricardo Alves,1.6,Concluída
+VDA0126,2020-09-02,2020/09,Natalia Sousa,176.936.763-20,Maceió,AL,Renault,Logan,Life,2018,Dourado,75700,5.6,71460.8,Financiado,Fernanda Lima,0.8,Concluída
+VDA0127,2020-09-09,2020/09,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Honda,CR-V,Touring,2018,Bege,90400,6.6,84433.6,Financiado,Marcos Oliveira,0.9,Concluída
+VDA0128,2020-09-12,2020/09,Daniela Martins,849.808.412-41,Natal,RN,Chevrolet,Cruze,Premier,2017,Vermelho,49000,6.5,45815.0,À vista,Camila Rocha,2.2,Concluída
+VDA0129,2020-10-13,2020/10,Leonardo Freitas,615.951.484-65,Salvador,BA,Fiat,Mobi,Like,2015,Dourado,61500,0.9,60946.5,À vista,Patrícia Ferreira,1.2,Concluída
+VDA0130,2020-10-21,2020/10,Leonardo Freitas,615.951.484-65,Salvador,BA,Nissan,March,SV,2020,Dourado,78000,4.3,74646.0,À vista,Carlos Eduardo Silva,2.0,Concluída
+VDA0131,2020-11-13,2020/11,Isabela Cruz,627.204.653-75,São Paulo,SP,Hyundai,ix35,GLS,2016,Prata,80700,4.4,77149.2,Financiado,Camila Rocha,2.4,Concluída
+VDA0132,2020-11-17,2020/11,Luciana Gomes,341.316.475-25,Belo Horizonte,MG,Fiat,Cronos,Drive,2019,Preto,65600,7.3,60811.2,Financiado,Ana Paula Souza,1.3,Concluída
+VDA0133,2020-12-03,2020/12,Aline Batista,299.468.044-36,Belém,PA,Nissan,Kicks,Advance,2019,Bege,76100,4.5,72675.5,À vista,Roberto Mendes,1.2,Concluída
+VDA0134,2020-12-07,2020/12,Rodrigo Cunha,721.489.513-43,Salvador,BA,Jeep,Compass,Limited,2017,Preto,77100,0.9,76406.1,À vista,Fernanda Lima,2.0,Concluída
+VDA0135,2020-12-20,2020/12,Simone Pinto,930.103.105-18,Campo Grande,MS,Jeep,Renegade,Longitude,2017,Preto,98000,4.3,93786.0,Financiado,Ana Paula Souza,1.0,Concluída
+VDA0136,2021-01-02,2021/01,Juliana Almeida,669.096.705-46,Salvador,BA,Renault,Duster,Iconic,2021,Azul,90900,7.1,84446.1,À vista,Juliana Costa,0.8,Concluída
+VDA0137,2021-01-03,2021/01,Leonardo Freitas,615.951.484-65,Salvador,BA,Jeep,Compass,Limited,2018,Preto,107700,7.8,99299.4,Consórcio,Fernanda Lima,1.5,Cancelada
+VDA0138,2021-01-10,2021/01,Juliana Almeida,669.096.705-46,Salvador,BA,Toyota,RAV4,2.5,2020,Azul,105600,0.4,105177.6,À vista,Marcos Oliveira,2.1,Concluída
+VDA0139,2021-01-21,2021/01,Paulo Roberto,287.101.226-91,Manaus,AM,Honda,HR-V,EX,2021,Cinza,118300,3.4,114277.8,Financiado,Juliana Costa,2.0,Em andamento
+VDA0140,2021-01-21,2021/01,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Ford,Focus,Titanium,2016,Cinza,49100,5.3,46497.7,Financiado,Ricardo Alves,2.0,Cancelada
+VDA0141,2021-02-01,2021/02,Cristina Neves,018.451.462-70,Campo Grande,MS,Chevrolet,Tracker,Premier,2021,Vermelho,103300,3.8,99374.6,Financiado,Marcos Oliveira,1.6,Cancelada
+VDA0142,2021-02-12,2021/02,Letícia Torres,671.657.262-84,Campinas,SP,Chevrolet,Tracker,Premier,2021,Azul,84500,2.3,82556.5,Financiado,Diego Santos,1.8,Concluída
+VDA0143,2021-02-24,2021/02,Simone Pinto,930.103.105-18,Campo Grande,MS,Chevrolet,Spin,Premier,2019,Cinza,82300,2.0,80654.0,Financiado,Diego Santos,1.5,Concluída
+VDA0144,2021-02-25,2021/02,Anderson Lima,319.314.919-05,Belém,PA,Toyota,Yaris,XLS,2018,Bege,70500,6.2,66129.0,Financiado,Carlos Eduardo Silva,1.9,Concluída
+VDA0145,2021-03-10,2021/03,Paulo Roberto,287.101.226-91,Manaus,AM,Fiat,Mobi,Like,2020,Verde,64200,6.5,60027.0,Financiado,Fernanda Lima,0.9,Concluída
+VDA0146,2021-03-16,2021/03,Beatriz Fernandes,277.434.873-47,Natal,RN,Fiat,Strada,Volcano,2017,Preto,56200,7.3,52097.4,À vista,Juliana Costa,1.2,Concluída
+VDA0147,2021-03-19,2021/03,Cristina Neves,018.451.462-70,Campo Grande,MS,Chevrolet,Spin,Premier,2021,Dourado,75200,5.6,70988.8,Financiado,Ricardo Alves,1.6,Concluída
+VDA0148,2021-03-28,2021/03,Bruno Correia,882.081.219-13,Cuiabá,MT,Renault,Kwid,Zen,2018,Prata,64900,5.8,61135.8,À vista,Roberto Mendes,1.4,Concluída
+VDA0149,2021-04-11,2021/04,Simone Pinto,930.103.105-18,Campo Grande,MS,Hyundai,Tucson,GLS,2019,Prata,65200,8.0,59984.0,À vista,Diego Santos,2.0,Em andamento
+VDA0150,2021-04-11,2021/04,Isabela Cruz,627.204.653-75,São Paulo,SP,Chevrolet,Montana,LTZ,2020,Azul,66700,6.7,62231.1,Financiado,Roberto Mendes,1.6,Concluída
+VDA0151,2021-04-12,2021/04,Thiago Monteiro,997.376.311-65,Curitiba,PR,Nissan,March,SV,2019,Bege,63200,1.3,62378.4,À vista,Camila Rocha,1.2,Concluída
+VDA0152,2021-04-14,2021/04,Alexandre Dias,541.458.685-01,Salvador,BA,Renault,Kwid,Zen,2019,Preto,77300,5.2,73280.4,Financiado,Juliana Costa,1.5,Concluída
+VDA0153,2021-04-16,2021/04,Matheus Borges,170.805.310-03,São Luís,MA,Ford,Ka,SE Plus,2019,Verde,87200,4.1,83624.8,À vista,Camila Rocha,2.4,Concluída
+VDA0154,2021-04-16,2021/04,Priscila Ramos,474.687.234-30,São Paulo,SP,Hyundai,Santa Fe,3.5,2020,Verde,94800,5.9,89206.8,À vista,Juliana Costa,2.1,Concluída
+VDA0155,2021-05-05,2021/05,Juliana Almeida,669.096.705-46,Salvador,BA,Honda,WR-V,EXL,2021,Laranja,96700,0.4,96313.2,Financiado,Juliana Costa,0.9,Concluída
+VDA0156,2021-06-17,2021/06,Gabriel Marques,812.236.231-66,Campinas,SP,Renault,Kwid,Zen,2019,Vermelho,81600,1.5,80376.0,Consórcio,Ana Paula Souza,1.1,Em andamento
+VDA0157,2021-06-18,2021/06,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Nissan,Versa,Advance,2018,Preto,75200,5.9,70763.2,Financiado,Patrícia Ferreira,1.8,Concluída
+VDA0158,2021-07-04,2021/07,Bruno Correia,882.081.219-13,Cuiabá,MT,Volkswagen,Gol,1.6,2017,Dourado,48900,6.0,45966.0,Financiado,Fernanda Lima,1.7,Concluída
+VDA0159,2021-07-18,2021/07,Anderson Lima,319.314.919-05,Belém,PA,Renault,Oroch,Outsider,2019,Azul,77000,6.5,71995.0,À vista,Ana Paula Souza,1.2,Concluída
+VDA0160,2021-07-21,2021/07,Thiago Monteiro,997.376.311-65,Curitiba,PR,Volkswagen,Polo,Highline,2021,Bege,82400,5.9,77538.4,Financiado,Patrícia Ferreira,1.5,Concluída
+VDA0161,2021-07-22,2021/07,Maria Aparecida,386.379.402-65,São Paulo,SP,Volkswagen,T-Cross,Comfortline,2019,Cinza,52800,6.5,49368.0,À vista,Juliana Costa,2.5,Concluída
+VDA0162,2021-07-22,2021/07,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Jeep,Wrangler,Rubicon,2020,Branco,95500,0.6,94927.0,Consórcio,Patrícia Ferreira,2.2,Concluída
+VDA0163,2021-09-12,2021/09,Matheus Borges,170.805.310-03,São Luís,MA,Toyota,SW4,Diamond,2020,Azul,94900,6.2,89016.2,À vista,Ana Paula Souza,1.7,Concluída
+VDA0164,2021-09-14,2021/09,Alexandre Dias,541.458.685-01,Salvador,BA,Honda,Civic,EXL,2016,Verde,49100,2.6,47823.4,Financiado,Carlos Eduardo Silva,1.5,Concluída
+VDA0165,2021-09-25,2021/09,Rafael Cardoso,383.465.787-13,João Pessoa,PB,Toyota,HiLux,SR,2018,Bege,86200,2.3,84217.4,Financiado,Ricardo Alves,2.4,Concluída
+VDA0166,2021-10-07,2021/10,Anderson Lima,319.314.919-05,Belém,PA,Jeep,Wrangler,Rubicon,2018,Dourado,107900,0.4,107468.4,À vista,Juliana Costa,1.6,Concluída
+VDA0167,2021-10-14,2021/10,Carolina Mendonça,193.745.299-12,Maceió,AL,Chevrolet,Spin,Premier,2017,Dourado,70900,2.7,68985.7,Financiado,Ricardo Alves,1.5,Concluída
+VDA0168,2021-10-21,2021/10,Adriana Barbosa,039.117.182-27,Goiânia,GO,Renault,Duster,Iconic,2016,Preto,52800,2.8,51321.6,Financiado,Carlos Eduardo Silva,2.2,Concluída
+VDA0169,2021-10-23,2021/10,Adriana Barbosa,039.117.182-27,Goiânia,GO,Nissan,Versa,Advance,2019,Bege,67600,5.5,63882.0,Consórcio,Fernanda Lima,1.6,Concluída
+VDA0170,2021-12-15,2021/12,Tatiane Andrade,786.801.128-05,Florianópolis,SC,Honda,City,EXL,2020,Dourado,66000,1.3,65142.0,Financiado,Ricardo Alves,1.8,Concluída
+VDA0171,2021-12-20,2021/12,Cristina Neves,018.451.462-70,Campo Grande,MS,Hyundai,Creta,Prestige,2021,Cinza,80900,7.6,74751.6,À vista,Juliana Costa,1.3,Concluída
+VDA0172,2022-01-02,2022/01,João Pereira,433.218.196-00,Porto Alegre,RS,Honda,City,EXL,2020,Prata,74900,1.2,74001.2,Financiado,Marcos Oliveira,1.0,Concluída
+VDA0173,2022-01-27,2022/01,Henrique Moreira,083.172.788-95,Teresina,PI,Volkswagen,Polo,Highline,2019,Dourado,73600,5.2,69772.8,Financiado,Roberto Mendes,2.3,Concluída
+VDA0174,2022-02-03,2022/02,Juliana Almeida,669.096.705-46,Salvador,BA,Fiat,Mobi,Like,2020,Verde,66200,3.1,64147.8,Consórcio,Ricardo Alves,2.0,Em andamento
+VDA0175,2022-02-17,2022/02,Anderson Lima,319.314.919-05,Belém,PA,Fiat,Argo,Drive,2017,Cinza,50600,6.2,47462.8,Consórcio,Ricardo Alves,1.4,Concluída
+VDA0176,2022-02-22,2022/02,Isabela Cruz,627.204.653-75,São Paulo,SP,Toyota,HiLux,SR,2019,Laranja,84000,3.8,80808.0,Financiado,Fernanda Lima,2.2,Concluída
+VDA0177,2022-02-22,2022/02,Cristina Neves,018.451.462-70,Campo Grande,MS,Fiat,Toro,Ranch,2018,Branco,74400,2.6,72465.6,Financiado,Ricardo Alves,2.0,Concluída
+VDA0178,2022-02-25,2022/02,Beatriz Fernandes,277.434.873-47,Natal,RN,Jeep,Gladiator,Rubicon,2022,Laranja,183600,1.1,181580.4,Financiado,Carlos Eduardo Silva,0.9,Em andamento
+VDA0179,2022-03-11,2022/03,Cristina Neves,018.451.462-70,Campo Grande,MS,Volkswagen,T-Cross,Comfortline,2017,Preto,75700,7.3,70173.9,Consórcio,Diego Santos,2.4,Concluída
+VDA0180,2022-03-12,2022/03,Priscila Ramos,474.687.234-30,São Paulo,SP,Chevrolet,Tracker,Premier,2019,Dourado,59100,5.0,56145.0,Financiado,Marcos Oliveira,2.3,Concluída
+VDA0181,2022-03-20,2022/03,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Renault,Logan,Life,2018,Dourado,45100,3.0,43747.0,À vista,Ana Paula Souza,1.7,Cancelada
+VDA0182,2022-03-20,2022/03,Henrique Moreira,083.172.788-95,Teresina,PI,Honda,HR-V,EX,2020,Verde,105800,0.9,104847.8,Consórcio,Roberto Mendes,1.7,Concluída
+VDA0183,2022-03-24,2022/03,Rodrigo Cunha,721.489.513-43,Salvador,BA,Jeep,Compass,Limited,2020,Cinza,127600,6.0,119944.0,Financiado,Juliana Costa,1.3,Concluída
+VDA0184,2022-04-06,2022/04,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Nissan,X-Trail,SL,2020,Verde,63700,0.8,63190.4,Financiado,Patrícia Ferreira,1.2,Concluída
+VDA0185,2022-04-15,2022/04,Leandro Castro,799.118.384-25,Belo Horizonte,MG,Hyundai,ix35,GLS,2017,Preto,48300,0.6,48010.2,Consórcio,Fernanda Lima,2.2,Em andamento
+VDA0186,2022-04-27,2022/04,Leandro Castro,799.118.384-25,Belo Horizonte,MG,Chevrolet,Onix,Premier,2021,Verde,60100,2.6,58537.4,Financiado,Marcos Oliveira,2.4,Concluída
+VDA0187,2022-05-03,2022/05,Antônio Carlos,283.276.483-50,Belo Horizonte,MG,Ford,Ka,SE Plus,2021,Preto,98900,3.1,95834.1,Financiado,Marcos Oliveira,2.0,Concluída
+VDA0188,2022-05-23,2022/05,Natalia Sousa,176.936.763-20,Maceió,AL,Honda,CR-V,Touring,2019,Laranja,71400,3.8,68686.8,Financiado,Camila Rocha,2.0,Cancelada
+VDA0189,2022-06-12,2022/06,Simone Pinto,930.103.105-18,Campo Grande,MS,Nissan,Frontier,LE,2018,Cinza,66900,2.7,65093.7,Financiado,Patrícia Ferreira,1.5,Concluída
+VDA0190,2022-06-13,2022/06,Natalia Sousa,176.936.763-20,Maceió,AL,Volkswagen,Fox,1.6,2022,Azul,102000,7.1,94758.0,À vista,Patrícia Ferreira,1.6,Concluída
+VDA0191,2022-06-18,2022/06,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Hyundai,Tucson,GLS,2022,Branco,115400,2.1,112976.6,Financiado,Ana Paula Souza,0.9,Concluída
+VDA0192,2022-06-22,2022/06,Rafael Cardoso,383.465.787-13,João Pessoa,PB,Jeep,Gladiator,Rubicon,2017,Preto,128200,4.0,123072.0,Consórcio,Diego Santos,1.6,Concluída
+VDA0193,2022-06-24,2022/06,Matheus Borges,170.805.310-03,São Luís,MA,Volkswagen,T-Cross,Comfortline,2017,Dourado,53500,3.9,51413.5,Financiado,Roberto Mendes,1.4,Concluída
+VDA0194,2022-07-08,2022/07,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Nissan,Versa,Advance,2020,Laranja,66900,1.7,65762.7,Financiado,Camila Rocha,2.2,Cancelada
+VDA0195,2022-07-12,2022/07,Anderson Lima,319.314.919-05,Belém,PA,Renault,Oroch,Outsider,2022,Preto,99400,1.1,98306.6,À vista,Patrícia Ferreira,0.9,Concluída
+VDA0196,2022-07-12,2022/07,Anderson Lima,319.314.919-05,Belém,PA,Hyundai,Tucson,GLS,2018,Vermelho,90800,2.0,88984.0,Financiado,Camila Rocha,1.3,Em andamento
+VDA0197,2022-07-17,2022/07,Isabela Cruz,627.204.653-75,São Paulo,SP,Nissan,March,SV,2022,Branco,118400,4.1,113545.6,Consórcio,Fernanda Lima,1.6,Concluída
+VDA0198,2022-08-03,2022/08,Daniela Martins,849.808.412-41,Natal,RN,Fiat,Strada,Volcano,2022,Azul,94300,2.1,92319.7,À vista,Juliana Costa,2.1,Cancelada
+VDA0199,2022-08-06,2022/08,Renata Melo,634.216.073-37,Campinas,SP,Renault,Duster,Iconic,2018,Verde,48000,2.4,46848.0,Financiado,Carlos Eduardo Silva,1.7,Concluída
+VDA0200,2022-08-11,2022/08,Renata Melo,634.216.073-37,Campinas,SP,Fiat,Argo,Drive,2018,Azul,52400,3.8,50408.8,À vista,Patrícia Ferreira,2.1,Concluída
+VDA0201,2022-08-21,2022/08,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Renault,Logan,Life,2022,Vermelho,86100,6.4,80589.6,Financiado,Marcos Oliveira,2.0,Concluída
+VDA0202,2022-09-10,2022/09,Priscila Ramos,474.687.234-30,São Paulo,SP,Chevrolet,Onix,Premier,2021,Laranja,83500,0.3,83249.5,Consórcio,Carlos Eduardo Silva,0.9,Concluída
+VDA0203,2022-09-13,2022/09,Simone Pinto,930.103.105-18,Campo Grande,MS,Hyundai,ix35,GLS,2018,Bege,54900,5.5,51880.5,À vista,Diego Santos,1.3,Concluída
+VDA0204,2022-10-04,2022/10,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Fiat,Strada,Volcano,2020,Vermelho,87700,4.7,83578.1,À vista,Fernanda Lima,1.3,Concluída
+VDA0205,2022-10-08,2022/10,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Nissan,Versa,Advance,2018,Azul,79600,6.2,74664.8,Financiado,Diego Santos,1.6,Concluída
+VDA0206,2022-10-16,2022/10,Felipe Ribeiro,534.874.016-40,Salvador,BA,Ford,Ka,SE Plus,2017,Verde,49200,7.4,45559.2,Consórcio,Carlos Eduardo Silva,1.8,Concluída
+VDA0207,2022-10-22,2022/10,Adriana Barbosa,039.117.182-27,Goiânia,GO,Volkswagen,Tiguan,Allspace,2018,Preto,53700,5.3,50853.9,Consórcio,Patrícia Ferreira,0.9,Concluída
+VDA0208,2022-11-13,2022/11,Henrique Moreira,083.172.788-95,Teresina,PI,Volkswagen,Tiguan,Allspace,2021,Branco,93600,1.3,92383.2,Consórcio,Patrícia Ferreira,0.9,Concluída
+VDA0209,2022-11-17,2022/11,Letícia Torres,671.657.262-84,Campinas,SP,Nissan,X-Trail,SL,2021,Azul,107100,5.5,101209.5,Financiado,Ana Paula Souza,2.0,Concluída
+VDA0210,2022-11-18,2022/11,Cristina Neves,018.451.462-70,Campo Grande,MS,Chevrolet,Cruze,Premier,2018,Vermelho,57200,7.5,52910.0,Consórcio,Patrícia Ferreira,2.0,Concluída
+VDA0211,2022-11-22,2022/11,Renata Melo,634.216.073-37,Campinas,SP,Jeep,Commander,Limited,2021,Prata,149700,7.1,139071.3,Financiado,Ricardo Alves,1.5,Concluída
+VDA0212,2022-11-23,2022/11,Anderson Lima,319.314.919-05,Belém,PA,Toyota,HiLux,SR,2020,Prata,123700,3.8,118999.4,À vista,Ricardo Alves,1.2,Concluída
+VDA0213,2022-12-03,2022/12,Carolina Mendonça,193.745.299-12,Maceió,AL,Toyota,Etios,Platinum,2022,Branco,134600,4.6,128408.4,Consórcio,Juliana Costa,1.7,Concluída
+VDA0214,2022-12-05,2022/12,Thiago Monteiro,997.376.311-65,Curitiba,PR,Hyundai,HB20,Evolution,2021,Vermelho,87400,0.9,86613.4,À vista,Camila Rocha,1.2,Concluída
+VDA0215,2022-12-11,2022/12,Paulo Roberto,287.101.226-91,Manaus,AM,Jeep,Compass,Limited,2019,Cinza,148400,2.8,144244.8,À vista,Carlos Eduardo Silva,1.5,Concluída
+VDA0216,2022-12-13,2022/12,Luciana Gomes,341.316.475-25,Belo Horizonte,MG,Hyundai,ix35,GLS,2022,Verde,97200,7.7,89715.6,Financiado,Roberto Mendes,1.5,Concluída
+VDA0217,2022-12-23,2022/12,Cristina Neves,018.451.462-70,Campo Grande,MS,Jeep,Commander,Limited,2020,Verde,133300,2.2,130367.4,Financiado,Camila Rocha,1.4,Em andamento
+VDA0218,2023-01-02,2023/01,Isabela Cruz,627.204.653-75,São Paulo,SP,Fiat,500,Cult,2019,Preto,76800,2.5,74880.0,Financiado,Fernanda Lima,1.5,Concluída
+VDA0219,2023-01-11,2023/01,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Honda,Fit,EX,2021,Branco,80900,1.7,79524.7,Financiado,Diego Santos,1.7,Concluída
+VDA0220,2023-01-23,2023/01,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Honda,Fit,EX,2022,Vermelho,131900,2.4,128734.4,Financiado,Marcos Oliveira,1.5,Concluída
+VDA0221,2023-02-07,2023/02,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Renault,Duster,Iconic,2021,Branco,64400,2.2,62983.2,Consórcio,Juliana Costa,1.7,Concluída
+VDA0222,2023-02-10,2023/02,Eduardo Fonseca,810.801.326-77,Belo Horizonte,MG,Toyota,SW4,Diamond,2018,Laranja,115700,1.7,113733.1,Financiado,Juliana Costa,1.3,Concluída
+VDA0223,2023-02-22,2023/02,Henrique Moreira,083.172.788-95,Teresina,PI,Volkswagen,Gol,1.6,2022,Bege,102300,7.0,95139.0,Financiado,Patrícia Ferreira,2.1,Concluída
+VDA0224,2023-03-02,2023/03,João Pereira,433.218.196-00,Porto Alegre,RS,Ford,Focus,Titanium,2018,Preto,59900,6.5,56006.5,Consórcio,Ana Paula Souza,2.0,Concluída
+VDA0225,2023-03-04,2023/03,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Toyota,Corolla,GLi,2019,Cinza,123100,3.0,119407.0,Financiado,Camila Rocha,2.4,Concluída
+VDA0226,2023-03-10,2023/03,Bruno Correia,882.081.219-13,Cuiabá,MT,Toyota,Yaris,XLS,2023,Prata,126300,3.5,121879.5,À vista,Patrícia Ferreira,2.2,Concluída
+VDA0227,2023-03-12,2023/03,Juliana Almeida,669.096.705-46,Salvador,BA,Volkswagen,Fox,1.6,2020,Branco,84400,3.4,81530.4,Financiado,Ana Paula Souza,2.5,Concluída
+VDA0228,2023-03-12,2023/03,João Pereira,433.218.196-00,Porto Alegre,RS,Ford,Focus,Titanium,2022,Dourado,122200,3.8,117556.4,Financiado,Ricardo Alves,1.8,Concluída
+VDA0229,2023-04-12,2023/04,Carolina Mendonça,193.745.299-12,Maceió,AL,Fiat,Toro,Ranch,2018,Preto,61700,4.4,58985.2,Financiado,Camila Rocha,1.3,Concluída
+VDA0230,2023-05-15,2023/05,Cristina Neves,018.451.462-70,Campo Grande,MS,Renault,Kwid,Zen,2022,Cinza,53700,2.2,52518.6,Financiado,Carlos Eduardo Silva,1.5,Concluída
+VDA0231,2023-05-19,2023/05,Juliana Almeida,669.096.705-46,Salvador,BA,Renault,Captur,Intense,2019,Bege,54700,6.7,51035.1,Financiado,Marcos Oliveira,2.3,Concluída
+VDA0232,2023-06-03,2023/06,Priscila Ramos,474.687.234-30,São Paulo,SP,Renault,Kwid,Zen,2018,Cinza,52400,5.9,49308.4,Financiado,Patrícia Ferreira,2.5,Em andamento
+VDA0233,2023-07-03,2023/07,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Ford,EcoSport,FreeStyle,2022,Laranja,118400,3.1,114729.6,Financiado,Fernanda Lima,2.1,Concluída
+VDA0234,2023-07-07,2023/07,Matheus Borges,170.805.310-03,São Luís,MA,Hyundai,Creta,Prestige,2021,Azul,79000,4.6,75366.0,Financiado,Patrícia Ferreira,2.3,Concluída
+VDA0235,2023-07-14,2023/07,Marcelo Teixeira,893.252.880-95,Goiânia,GO,Ford,Focus,Titanium,2023,Vermelho,98600,1.5,97121.0,À vista,Roberto Mendes,2.5,Concluída
+VDA0236,2023-07-20,2023/07,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Nissan,Sentra,SV,2022,Verde,101200,3.7,97455.6,Financiado,Juliana Costa,1.5,Concluída
+VDA0237,2023-07-20,2023/07,Beatriz Fernandes,277.434.873-47,Natal,RN,Fiat,Strada,Volcano,2022,Preto,64600,5.8,60853.2,Financiado,Patrícia Ferreira,2.3,Concluída
+VDA0238,2023-08-16,2023/08,Letícia Torres,671.657.262-84,Campinas,SP,Chevrolet,S10,LTZ,2022,Bege,63500,3.0,61595.0,Financiado,Marcos Oliveira,2.0,Concluída
+VDA0239,2023-08-17,2023/08,Anderson Lima,319.314.919-05,Belém,PA,Volkswagen,Fox,1.6,2022,Preto,84800,5.3,80305.6,Financiado,Fernanda Lima,1.5,Em andamento
+VDA0240,2023-09-03,2023/09,Natalia Sousa,176.936.763-20,Maceió,AL,Jeep,Wrangler,Rubicon,2019,Dourado,126800,2.5,123630.0,À vista,Patrícia Ferreira,1.2,Cancelada
+VDA0241,2023-09-05,2023/09,Leonardo Freitas,615.951.484-65,Salvador,BA,Nissan,Kicks,Advance,2018,Bege,87700,4.2,84016.6,À vista,Camila Rocha,2.5,Concluída
+VDA0242,2023-09-14,2023/09,Natalia Sousa,176.936.763-20,Maceió,AL,Honda,Fit,EX,2019,Prata,57900,6.4,54194.4,À vista,Ana Paula Souza,2.3,Concluída
+VDA0243,2023-09-15,2023/09,Sandra Vieira,953.767.242-38,Belo Horizonte,MG,Hyundai,Creta,Prestige,2019,Preto,102300,5.3,96878.1,À vista,Juliana Costa,1.0,Concluída
+VDA0244,2023-09-16,2023/09,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Nissan,Sentra,SV,2023,Bege,127800,7.2,118598.4,Consórcio,Marcos Oliveira,1.5,Concluída
+VDA0245,2023-09-17,2023/09,Cristina Neves,018.451.462-70,Campo Grande,MS,Honda,Fit,EX,2021,Cinza,64900,5.3,61460.3,Financiado,Juliana Costa,1.4,Concluída
+VDA0246,2023-09-19,2023/09,Renata Melo,634.216.073-37,Campinas,SP,Toyota,HiLux,SR,2019,Branco,102300,3.7,98514.9,Financiado,Juliana Costa,2.2,Concluída
+VDA0247,2023-09-21,2023/09,Simone Pinto,930.103.105-18,Campo Grande,MS,Chevrolet,Tracker,Premier,2019,Azul,64900,5.7,61200.7,Financiado,Diego Santos,1.9,Concluída
+VDA0248,2023-09-24,2023/09,Antônio Carlos,283.276.483-50,Belo Horizonte,MG,Nissan,Versa,Advance,2023,Cinza,112800,1.4,111220.8,Consórcio,Roberto Mendes,2.0,Concluída
+VDA0249,2023-09-25,2023/09,Daniela Martins,849.808.412-41,Natal,RN,Volkswagen,Fox,1.6,2020,Cinza,85000,6.0,79900.0,Financiado,Ricardo Alves,1.4,Concluída
+VDA0250,2023-10-02,2023/10,Gabriel Marques,812.236.231-66,Campinas,SP,Fiat,Argo,Drive,2021,Cinza,93200,7.7,86023.6,Financiado,Patrícia Ferreira,1.6,Concluída
+VDA0251,2023-10-04,2023/10,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Hyundai,Creta,Prestige,2020,Cinza,71000,4.8,67592.0,Financiado,Ricardo Alves,0.8,Concluída
+VDA0252,2023-10-13,2023/10,Leonardo Freitas,615.951.484-65,Salvador,BA,Fiat,500,Cult,2019,Dourado,89500,2.1,87620.5,Financiado,Ricardo Alves,0.9,Concluída
+VDA0253,2023-10-26,2023/10,Antônio Carlos,283.276.483-50,Belo Horizonte,MG,Ford,Ranger,Limited,2023,Verde,122400,3.3,118360.8,À vista,Roberto Mendes,1.0,Concluída
+VDA0254,2023-11-08,2023/11,Vanessa Araújo,106.513.338-72,Rio de Janeiro,RJ,Hyundai,Tucson,GLS,2023,Prata,112900,3.8,108609.8,À vista,Camila Rocha,2.2,Concluída
+VDA0255,2023-11-20,2023/11,Simone Pinto,930.103.105-18,Campo Grande,MS,Ford,Focus,Titanium,2022,Prata,78900,1.8,77479.8,À vista,Diego Santos,1.7,Concluída
+VDA0256,2023-11-27,2023/11,Rodrigo Cunha,721.489.513-43,Salvador,BA,Chevrolet,Tracker,Premier,2023,Laranja,119300,0.7,118464.9,Financiado,Diego Santos,0.9,Concluída
+VDA0257,2023-11-27,2023/11,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Honda,CR-V,Touring,2023,Preto,106200,5.7,100146.6,À vista,Ana Paula Souza,1.1,Concluída
+VDA0258,2023-12-05,2023/12,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Jeep,Compass,Limited,2019,Dourado,97100,5.0,92245.0,Financiado,Fernanda Lima,1.3,Concluída
+VDA0259,2023-12-18,2023/12,João Pereira,433.218.196-00,Porto Alegre,RS,Chevrolet,Tracker,Premier,2018,Branco,50000,6.7,46650.0,À vista,Fernanda Lima,1.9,Concluída
+VDA0260,2023-12-21,2023/12,Priscila Ramos,474.687.234-30,São Paulo,SP,Volkswagen,T-Cross,Comfortline,2022,Prata,112800,6.3,105693.6,À vista,Patrícia Ferreira,1.7,Concluída
+VDA0261,2023-12-27,2023/12,Carolina Mendonça,193.745.299-12,Maceió,AL,Fiat,Strada,Volcano,2021,Cinza,43600,6.2,40896.8,À vista,Ana Paula Souza,1.1,Concluída
+VDA0262,2024-01-04,2024/01,Isabela Cruz,627.204.653-75,São Paulo,SP,Hyundai,Creta,Prestige,2020,Laranja,82900,4.6,79086.6,Consórcio,Roberto Mendes,2.1,Concluída
+VDA0263,2024-01-08,2024/01,Luciana Gomes,341.316.475-25,Belo Horizonte,MG,Chevrolet,Onix,Premier,2019,Dourado,95900,5.6,90529.6,Financiado,Juliana Costa,1.5,Concluída
+VDA0264,2024-01-14,2024/01,Felipe Ribeiro,534.874.016-40,Salvador,BA,Toyota,SW4,Diamond,2023,Cinza,79700,1.8,78265.4,Financiado,Ana Paula Souza,1.9,Concluída
+VDA0265,2024-02-04,2024/02,Paulo Roberto,287.101.226-91,Manaus,AM,Volkswagen,T-Cross,Comfortline,2021,Dourado,77000,2.8,74844.0,Financiado,Patrícia Ferreira,1.6,Concluída
+VDA0266,2024-02-04,2024/02,Daniela Martins,849.808.412-41,Natal,RN,Hyundai,Elantra,GLS,2021,Cinza,72600,0.2,72454.8,Consórcio,Roberto Mendes,1.8,Em andamento
+VDA0267,2024-02-05,2024/02,Priscila Ramos,474.687.234-30,São Paulo,SP,Hyundai,HB20,Evolution,2021,Preto,100000,5.7,94300.0,Financiado,Ricardo Alves,1.8,Concluída
+VDA0268,2024-02-17,2024/02,Alexandre Dias,541.458.685-01,Salvador,BA,Renault,Captur,Intense,2023,Bege,110300,0.3,109969.1,Financiado,Fernanda Lima,0.8,Concluída
+VDA0269,2024-03-04,2024/03,Paulo Roberto,287.101.226-91,Manaus,AM,Volkswagen,Fox,1.6,2024,Branco,127400,6.8,118736.8,Consórcio,Ricardo Alves,1.6,Concluída
+VDA0270,2024-03-06,2024/03,Matheus Borges,170.805.310-03,São Luís,MA,Nissan,X-Trail,SL,2023,Laranja,79200,0.6,78724.8,Financiado,Marcos Oliveira,2.1,Concluída
+VDA0271,2024-03-07,2024/03,Adriana Barbosa,039.117.182-27,Goiânia,GO,Chevrolet,Tracker,Premier,2019,Prata,77000,8.0,70840.0,Financiado,Camila Rocha,2.3,Cancelada
+VDA0272,2024-04-02,2024/04,Isabela Cruz,627.204.653-75,São Paulo,SP,Jeep,Commander,Limited,2022,Preto,198600,6.9,184896.6,À vista,Ricardo Alves,1.2,Cancelada
+VDA0273,2024-04-09,2024/04,Gabriel Marques,812.236.231-66,Campinas,SP,Hyundai,Tucson,GLS,2021,Preto,66600,7.1,61871.4,Financiado,Marcos Oliveira,1.7,Concluída
+VDA0274,2024-04-12,2024/04,Daniela Martins,849.808.412-41,Natal,RN,Renault,Logan,Life,2019,Cinza,62000,1.0,61380.0,Financiado,Camila Rocha,1.7,Concluída
+VDA0275,2024-04-19,2024/04,Larissa Moura,169.985.435-34,Rio de Janeiro,RJ,Renault,Duster,Iconic,2024,Bege,91300,2.2,89291.4,À vista,Patrícia Ferreira,1.1,Concluída
+VDA0276,2024-04-21,2024/04,Matheus Borges,170.805.310-03,São Luís,MA,Jeep,Renegade,Longitude,2019,Prata,84500,1.3,83401.5,Financiado,Ricardo Alves,1.5,Concluída
+VDA0277,2024-04-24,2024/04,Alexandre Dias,541.458.685-01,Salvador,BA,Toyota,HiLux,SR,2022,Verde,140300,1.7,137914.9,Consórcio,Marcos Oliveira,1.1,Concluída
+VDA0278,2024-05-12,2024/05,Pedro Henrique,615.594.078-16,Porto Alegre,RS,Fiat,Toro,Ranch,2024,Prata,86500,6.1,81223.5,Consórcio,Carlos Eduardo Silva,1.9,Concluída
+VDA0279,2024-06-08,2024/06,Matheus Borges,170.805.310-03,São Luís,MA,Nissan,Versa,Advance,2022,Vermelho,76400,7.6,70593.6,Consórcio,Ricardo Alves,2.1,Concluída
+VDA0280,2024-06-15,2024/06,Gabriel Marques,812.236.231-66,Campinas,SP,Ford,EcoSport,FreeStyle,2022,Verde,85700,0.8,85014.4,Financiado,Fernanda Lima,1.8,Concluída
+VDA0281,2024-06-18,2024/06,Rodrigo Cunha,721.489.513-43,Salvador,BA,Toyota,Corolla,GLi,2024,Vermelho,130400,7.0,121272.0,Consórcio,Juliana Costa,2.0,Concluída
+VDA0282,2024-06-20,2024/06,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Fiat,Toro,Ranch,2023,Dourado,62900,4.1,60321.1,Financiado,Juliana Costa,1.0,Concluída
+VDA0283,2024-07-03,2024/07,Viviane Carvalho,556.981.693-40,João Pessoa,PB,Renault,Duster,Iconic,2024,Azul,89600,7.9,82521.6,À vista,Diego Santos,2.5,Concluída
+VDA0284,2024-07-19,2024/07,Beatriz Fernandes,277.434.873-47,Natal,RN,Honda,Fit,EX,2021,Preto,109200,3.5,105378.0,À vista,Fernanda Lima,2.4,Concluída
+VDA0285,2024-07-19,2024/07,Renata Melo,634.216.073-37,Campinas,SP,Fiat,Mobi,Like,2021,Cinza,64800,3.9,62272.8,Financiado,Diego Santos,1.2,Concluída
+VDA0286,2024-08-15,2024/08,Larissa Moura,169.985.435-34,Rio de Janeiro,RJ,Fiat,Strada,Volcano,2022,Preto,96400,0.7,95725.2,Consórcio,Roberto Mendes,1.1,Concluída
+VDA0287,2024-08-18,2024/08,Daniela Martins,849.808.412-41,Natal,RN,Fiat,Mobi,Like,2021,Laranja,70400,2.2,68851.2,Consórcio,Juliana Costa,2.5,Concluída
+VDA0288,2024-08-21,2024/08,Natalia Sousa,176.936.763-20,Maceió,AL,Volkswagen,T-Cross,Comfortline,2022,Laranja,109400,2.3,106883.8,Financiado,Diego Santos,1.5,Concluída
+VDA0289,2024-08-27,2024/08,Vitor Hugo Nascimento,346.706.562-72,Recife,PE,Jeep,Compass,Limited,2024,Verde,165200,6.2,154957.6,Financiado,Roberto Mendes,1.3,Concluída
+VDA0290,2024-09-02,2024/09,Alexandre Dias,541.458.685-01,Salvador,BA,Toyota,SW4,Diamond,2023,Prata,127900,1.2,126365.2,À vista,Marcos Oliveira,2.1,Concluída
+VDA0291,2024-09-04,2024/09,Adriana Barbosa,039.117.182-27,Goiânia,GO,Renault,Sandero,Stepway,2021,Preto,83700,7.2,77673.6,À vista,Ricardo Alves,2.3,Concluída
+VDA0292,2024-09-12,2024/09,Henrique Moreira,083.172.788-95,Teresina,PI,Volkswagen,Polo,Highline,2023,Verde,50600,5.7,47715.8,Financiado,Diego Santos,1.8,Concluída
+VDA0293,2024-09-21,2024/09,Eduardo Fonseca,810.801.326-77,Belo Horizonte,MG,Toyota,Etios,Platinum,2019,Branco,126200,3.3,122035.4,Financiado,Ana Paula Souza,0.8,Concluída
+VDA0294,2024-09-26,2024/09,Leonardo Freitas,615.951.484-65,Salvador,BA,Toyota,Etios,Platinum,2022,Cinza,136900,3.8,131697.8,À vista,Patrícia Ferreira,1.8,Concluída
+VDA0295,2024-10-06,2024/10,Adriana Barbosa,039.117.182-27,Goiânia,GO,Hyundai,ix35,GLS,2022,Preto,129000,4.5,123195.0,Consórcio,Roberto Mendes,1.1,Concluída
+VDA0296,2024-10-09,2024/10,Natalia Sousa,176.936.763-20,Maceió,AL,Jeep,Gladiator,Rubicon,2023,Cinza,162300,3.7,156294.9,Consórcio,Camila Rocha,1.6,Concluída
+VDA0297,2024-10-28,2024/10,Renata Melo,634.216.073-37,Campinas,SP,Renault,Duster,Iconic,2019,Dourado,76900,2.1,75285.1,À vista,Patrícia Ferreira,1.9,Concluída
+VDA0298,2024-11-18,2024/11,Felipe Ribeiro,534.874.016-40,Salvador,BA,Volkswagen,Tiguan,Allspace,2023,Preto,86400,6.0,81216.0,Financiado,Carlos Eduardo Silva,0.9,Cancelada
+VDA0299,2024-11-21,2024/11,Henrique Moreira,083.172.788-95,Teresina,PI,Hyundai,ix35,GLS,2022,Branco,84300,7.5,77977.5,Financiado,Ricardo Alves,2.2,Cancelada
+VDA0300,2024-12-23,2024/12,Letícia Torres,671.657.262-84,Campinas,SP,Toyota,SW4,Diamond,2023,Vermelho,123800,2.3,120952.6,À vista,Marcos Oliveira,1.9,Concluída

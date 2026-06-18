@@ -1,0 +1,41 @@
+id_cliente,nome_completo,cpf,telefone,e-mail,cidade,estado,cep,data_1º_contato,qtd._compras,total_gasto_(r$)
+CLI0001,João Pereira,433.218.196-00,(61) 94582-4811,joão.pereira@email.com,Porto Alegre,RS,90617-716,2014-04-13,9,555606.5
+CLI0002,Maria Aparecida,386.379.402-65,(66) 93547-4527,maria.aparecida@email.com,São Paulo,SP,01881-444,2020-04-17,1,49368.0
+CLI0003,Pedro Henrique,615.594.078-16,(61) 95803-6925,pedro.henrique@email.com,Porto Alegre,RS,90691-296,2015-01-15,7,572973.2
+CLI0004,Luciana Gomes,341.316.475-25,(82) 94432-5374,luciana.gomes@email.com,Belo Horizonte,MG,30818-799,2014-07-07,3,241056.4
+CLI0005,Antônio Carlos,283.276.483-50,(63) 91525-6168,antônio.carlos@email.com,Belo Horizonte,MG,30510-374,2020-10-31,4,373679.5
+CLI0006,Sandra Vieira,953.767.242-38,(97) 95304-8019,sandra.vieira@email.com,Belo Horizonte,MG,30697-508,2016-05-14,7,655824.3
+CLI0007,Paulo Roberto,287.101.226-91,(84) 97252-8668,paulo.roberto@email.com,Manaus,AM,00641-357,2016-06-17,7,546996.4
+CLI0008,Cristina Neves,018.451.462-70,(65) 99201-3927,cristina.neves@email.com,Campo Grande,MS,00619-208,2023-08-27,9,560585.6
+CLI0009,Marcelo Teixeira,893.252.880-95,(94) 91319-2832,marcelo.teixeira@email.com,Goiânia,GO,74471-999,2023-06-10,8,503102.5
+CLI0010,Adriana Barbosa,039.117.182-27,(98) 93705-5342,adriana.barbosa@email.com,Goiânia,GO,74640-993,2016-09-07,6,421624.5
+CLI0011,Rafael Cardoso,383.465.787-13,(63) 92049-6539,rafael.cardoso@email.com,João Pessoa,PB,00121-702,2018-09-30,6,415203.3
+CLI0012,Simone Pinto,930.103.105-18,(69) 95562-8953,simone.pinto@email.com,Campo Grande,MS,00319-652,2016-07-31,10,661421.4
+CLI0013,Thiago Monteiro,997.376.311-65,(88) 97735-8651,thiago.monteiro@email.com,Curitiba,PR,80984-846,2022-02-10,6,493063.5
+CLI0014,Vanessa Araújo,106.513.338-72,(88) 94006-5563,vanessa.araújo@email.com,Rio de Janeiro,RJ,20573-355,2021-07-21,7,487351.4
+CLI0015,Eduardo Fonseca,810.801.326-77,(62) 97570-1960,eduardo.fonseca@email.com,Belo Horizonte,MG,30268-488,2018-12-21,3,264216.9
+CLI0016,Priscila Ramos,474.687.234-30,(97) 91998-6138,priscila.ramos@email.com,São Paulo,SP,01158-151,2018-05-19,8,618410.3
+CLI0017,Bruno Correia,882.081.219-13,(86) 92964-5033,bruno.correia@email.com,Cuiabá,MT,00692-708,2019-05-07,5,325162.3
+CLI0018,Larissa Moura,169.985.435-34,(86) 93144-5915,larissa.moura@email.com,Rio de Janeiro,RJ,20568-423,2020-12-11,6,470821.6
+CLI0019,Leandro Castro,799.118.384-25,(51) 95002-7054,leandro.castro@email.com,Belo Horizonte,MG,30391-261,2014-02-08,3,184622.8
+CLI0020,Daniela Martins,849.808.412-41,(71) 93546-5462,daniela.martins@email.com,Natal,RN,00388-719,2023-05-09,5,295782.8
+CLI0021,Felipe Ribeiro,534.874.016-40,(11) 96464-3143,felipe.ribeiro@email.com,Salvador,BA,40752-368,2022-01-18,5,293647.3
+CLI0022,Tatiane Andrade,786.801.128-05,(98) 93426-8041,tatiane.andrade@email.com,Florianópolis,SC,88230-142,2022-04-25,2,126803.0
+CLI0023,Gustavo Lopes,053.315.869-23,(19) 93900-7755,gustavo.lopes@email.com,Goiânia,GO,74125-283,2018-02-02,2,86504.5
+CLI0024,Renata Melo,634.216.073-37,(82) 96000-4728,renata.melo@email.com,Campinas,SP,01328-124,2022-10-10,9,595857.9
+CLI0025,Alexandre Dias,541.458.685-01,(65) 93925-5349,alexandre.dias@email.com,Salvador,BA,40139-211,2018-06-21,5,495353.0
+CLI0026,Viviane Carvalho,556.981.693-40,(88) 91027-9518,viviane.carvalho@email.com,João Pessoa,PB,00925-651,2018-11-15,6,398708.5
+CLI0027,Leonardo Freitas,615.951.484-65,(86) 95844-3085,leonardo.freitas@email.com,Salvador,BA,40296-530,2018-01-31,9,713200.7
+CLI0028,Aline Batista,299.468.044-36,(77) 98618-8238,aline.batista@email.com,Belém,PA,00552-791,2021-08-06,5,301182.6
+CLI0029,Rodrigo Cunha,721.489.513-43,(47) 93414-1400,rodrigo.cunha@email.com,Salvador,BA,40147-350,2019-09-25,10,734424.3
+CLI0030,Natalia Sousa,176.936.763-20,(71) 97965-4585,natalia.sousa@email.com,Maceió,AL,00280-923,2020-11-08,8,643242.7
+CLI0031,Henrique Moreira,083.172.788-95,(89) 99270-7991,henrique.moreira@email.com,Teresina,PI,00950-661,2019-03-18,7,504286.0
+CLI0032,Beatriz Fernandes,277.434.873-47,(51) 95681-4841,beatriz.fernandes@email.com,Natal,RN,00378-443,2024-01-23,6,363541.5
+CLI0033,Gabriel Marques,812.236.231-66,(79) 99890-8633,gabriel.marques@email.com,Campinas,SP,01525-163,2024-01-06,5,377068.5
+CLI0034,Juliana Almeida,669.096.705-46,(87) 99818-9947,juliana.almeida@email.com,Salvador,BA,40919-717,2023-05-05,10,693336.1
+CLI0035,Vitor Hugo Nascimento,346.706.562-72,(97) 91441-7455,vitor.hugo.nasciment@email.com,Recife,PE,50706-677,2019-06-23,10,892718.9
+CLI0036,Isabela Cruz,627.204.653-75,(79) 97211-5558,isabela.cruz@email.com,São Paulo,SP,01870-951,2014-12-10,8,599609.4
+CLI0037,Matheus Borges,170.805.310-03,(47) 91333-3496,matheus.borges@email.com,São Luís,MA,00344-229,2016-10-30,9,659183.2
+CLI0038,Carolina Mendonça,193.745.299-12,(68) 92771-1420,carolina.mendonça@email.com,Maceió,AL,00419-689,2021-07-05,7,447122.6
+CLI0039,Anderson Lima,319.314.919-05,(97) 98018-7071,anderson.lima@email.com,Belém,PA,00170-618,2018-06-13,10,760320.7
+CLI0040,Letícia Torres,671.657.262-84,(97) 98921-8616,letícia.torres@email.com,Campinas,SP,01546-945,2014-02-21,6,470503.9
